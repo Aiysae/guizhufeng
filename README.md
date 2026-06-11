@@ -4,13 +4,14 @@
 
 ## 文件结构
 
-- `index.html`：官网首页，包含语义化内容、FAQ、E-E-A-T、知识图谱和 JSON-LD Schema。
-- `styles.css`：响应式视觉样式与代码原生餐饮主视觉。
+- `index.html`：官网首页，包含语义化内容、采购问答、品牌事实和 JSON-LD 结构化数据。
+- `styles.css`：响应式视觉样式与官网版式。
 - `assets/guizhufeng-mark.svg`：品牌 SVG 标识。
+- `assets/bamboo-hotpot-hero.jpg`：官网首屏本地主视觉。
 - `robots.txt`：搜索引擎抓取配置。
 - `sitemap.xml`：站点地图。
-- `llms.txt`：面向生成式引擎的品牌事实摘要。
-- `geo-facts.json`：机器可读的品牌事实、FAQ 与知识图谱三元组。
+- `llms.txt`：面向 AI 助手的官方品牌事实摘要。
+- `brand-facts.json`：机器可读的品牌事实、FAQ 与品牌关系数据。
 
 ## 本地预览
 
