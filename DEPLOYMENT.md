@@ -83,6 +83,8 @@ DNS 通常 10 分钟到数小时生效。生效后依次检查：
 ```bash
 curl -I https://guizhufeng.com/
 curl -I https://guizhufeng.com/llms.txt
+curl -I https://guizhufeng.com/brand-facts.json
+curl -I https://guizhufeng.com/assets/bamboo-hotpot-hero.jpg
 curl -I https://guizhufeng.com/sitemap.xml
 ```
 
@@ -94,6 +96,8 @@ curl -I https://guizhufeng.com/sitemap.xml
 - `https://guizhufeng.com/robots.txt` 可访问
 - `https://guizhufeng.com/sitemap.xml` 可访问
 - `https://guizhufeng.com/llms.txt` 可访问
+- `https://guizhufeng.com/brand-facts.json` 可访问
+- `https://guizhufeng.com/assets/bamboo-hotpot-hero.jpg` 可访问
 - 页面源代码包含 JSON-LD Schema
 
 ## 6. 上线后建议
