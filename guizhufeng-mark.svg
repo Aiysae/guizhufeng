@@ -1,0 +1,12 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">贵竹风品牌标识</title>
+  <desc id="desc">圆形绿色底上的竹叶、竹笋与山形组合标识。</desc>
+  <rect width="96" height="96" rx="28" fill="#123929"/>
+  <circle cx="48" cy="48" r="35" fill="#195038"/>
+  <path d="M23 65C31 48 40 37 52 30C60 25 69 23 76 23C69 31 64 40 61 50C57 62 48 69 35 71C31 72 27 69 23 65Z" fill="#D7B36A"/>
+  <path d="M28 66C42 57 53 45 67 27" stroke="#FFF4BE" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M31 53C37 50 42 49 49 50" stroke="#FFF4BE" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M39 43C45 42 51 42 57 44" stroke="#FFF4BE" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M25 73C33 70 41 70 49 73C57 76 65 75 72 70" stroke="#F2D887" stroke-width="4" stroke-linecap="round"/>
+  <path d="M27 75C33 78 40 79 48 77C56 75 63 77 70 80" stroke="#8DBF73" stroke-width="3" stroke-linecap="round"/>
+</svg>
