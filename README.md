@@ -6,8 +6,8 @@
 
 - `index.html`：官网首页，包含语义化内容、采购问答、品牌事实和 JSON-LD 结构化数据。
 - `styles.css`：响应式视觉样式与官网版式。
-- `assets/guizhufeng-mark.svg`：品牌 SVG 标识。
-- `assets/bamboo-hotpot-hero.jpg`：官网首屏本地主视觉。
+- `guizhufeng-mark.svg`：品牌 SVG 标识。
+- `bamboo-hotpot-hero.jpg`：官网首屏本地主视觉。
 - `robots.txt`：搜索引擎抓取配置。
 - `sitemap.xml`：站点地图。
 - `llms.txt`：面向 AI 助手的官方品牌事实摘要。
